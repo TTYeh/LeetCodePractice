@@ -7,10 +7,12 @@ public class Solution
 {
     public int MaxProfit(int[] prices)
     {
+        int result = 0; 
+        List<int> list = new List<int>();
         // 微分抓區間，區間比大小
         for (int i = 0; i < prices.Length; i++)
-        { 
-        
+        {
+            list.Add(prices[i + 1] - prices[i]);
         }
 
         //int localPriceChange = 0;
@@ -24,6 +26,6 @@ public class Solution
         //}
 
 
-        return
+        return result;
     }
 }
