@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Best Time to Buy and Sell Stock", "Best Time to Buy and Sell Stock\Best Time to Buy and Sell Stock.csproj", "{23B7C15C-CD07-4C14-A203-88D8F52351C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W1_2ValidParenthese", "W1_2ValidParenthese\W1_2ValidParenthese.csproj", "{7BA0DEBC-3CF1-4A83-88B0-C376D56CABA4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W1_3MergeTwoSortedLists", "W1_3MergeTwoSortedLists\W1_3MergeTwoSortedLists.csproj", "{D3CAC451-C368-41AA-B6BA-686A5EC2079F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W1_4BestTimetoBuyandSellStock", "W1_4BestTimetoBuyandSellStock\W1_4BestTimetoBuyandSellStock.csproj", "{E3EFDC8C-B3DA-40F9-AE9D-32950A819997}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W1_4BestTimetoBuyandSellStock2", "W1_4BestTimetoBuyandSellStock2\W1_4BestTimetoBuyandSellStock2.csproj", "{1F3C871F-583A-4F9A-BEDF-FF90932FE488}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +17,22 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{23B7C15C-CD07-4C14-A203-88D8F52351C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{23B7C15C-CD07-4C14-A203-88D8F52351C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{23B7C15C-CD07-4C14-A203-88D8F52351C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{23B7C15C-CD07-4C14-A203-88D8F52351C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BA0DEBC-3CF1-4A83-88B0-C376D56CABA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BA0DEBC-3CF1-4A83-88B0-C376D56CABA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BA0DEBC-3CF1-4A83-88B0-C376D56CABA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BA0DEBC-3CF1-4A83-88B0-C376D56CABA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3CAC451-C368-41AA-B6BA-686A5EC2079F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3CAC451-C368-41AA-B6BA-686A5EC2079F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3CAC451-C368-41AA-B6BA-686A5EC2079F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3CAC451-C368-41AA-B6BA-686A5EC2079F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3EFDC8C-B3DA-40F9-AE9D-32950A819997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3EFDC8C-B3DA-40F9-AE9D-32950A819997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3EFDC8C-B3DA-40F9-AE9D-32950A819997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3EFDC8C-B3DA-40F9-AE9D-32950A819997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F3C871F-583A-4F9A-BEDF-FF90932FE488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F3C871F-583A-4F9A-BEDF-FF90932FE488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F3C871F-583A-4F9A-BEDF-FF90932FE488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F3C871F-583A-4F9A-BEDF-FF90932FE488}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
